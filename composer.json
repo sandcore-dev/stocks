@@ -5,11 +5,11 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": "^7.3",
+        "php": "^7.3 || ^8.0",
         "bacon/bacon-qr-code": "^2.0",
         "fideloper/proxy": "~4.0",
         "fruitcake/laravel-cors": "^2.0",
-        "kokspflanze/alpha-vantage-api": "^0.7.0",
+        "kokspflanze/alpha-vantage-api": "^0.10",
         "laminas/laminas-text": "^2.7",
         "laravel/framework": "^8.0",
         "laravel/sanctum": "^2.11",
